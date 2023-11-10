@@ -1,8 +1,10 @@
 ---
-title: "MA615 Midterm Project-Flood Analysis in 2020-2021"
+title: "MA615 Midterm Project - Flood Analysis in 2020-2021"
 author: "Yueqi (Charlene) Jin"
 date: "November 2023"
-format: html
+format:
+  pdf: default
+  html: default
 editor: visual
 ---
 
@@ -41,7 +43,7 @@ This data set contains financial assistance values, including the number of appr
 ### **2.3 Data Field Description**
 
 | Field Name           | Description                                                                                                                                                                                                                                                           |
-|------------------|------------------------------------------------------|
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | disasterNumber       | Sequentially assigned number used to designate an event or incident declared as a disaster.                                                                                                                                                                           |
 | ihProgramDeclared    | Indicates whether the Individuals and Households program was declared for this disaster. For more information on the program, please visit [FEMA's website](https://www.fema.gov).                                                                                    |
 | iaProgramDeclared    | Indicates whether the Individual Assistance program was declared for this disaster. For more information on the program, please visit [FEMA's website](https://www.fema.gov).                                                                                         |
